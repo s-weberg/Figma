@@ -8,11 +8,13 @@
     letter-spacing: -0.02em;
     margin-top: 37px;
     margin-left: 80px;
+    display: inline-block;
 }
 
 
 .logo-dot {
     color: #824FF1;
+    display: inline-block;
 }
 
 
@@ -30,7 +32,8 @@ section {
     letter-spacing: 0.02em;
     color: #1B0A42;
     margin-top: 48px;
-    margin-left: 272px;
+    margin-left: 98px;
+    display: inline-block;
 } 
 
 .menu-2 { 
@@ -42,7 +45,8 @@ section {
     letter-spacing: 0.02em;
     color: #1B0A42;
     margin-top: 48px;
-    margin-left: 356px;
+    margin-left: 38px;
+    display: inline-block;
 } 
 
 .menu-3 { 
@@ -54,7 +58,8 @@ section {
     letter-spacing: 0.02em;
     color: #1B0A42;
     margin-top: 48px;
-    margin-left: 440px;
+    margin-left: 38px;
+    display: inline-block;
 } 
 
 .menu-4 { 
@@ -66,7 +71,8 @@ section {
     letter-spacing: 0.02em;
     color: #1B0A42;
     margin-top: 48px;
-    margin-left: 511px;
+    margin-left: 38px;
+    display: inline-block;
 } 
 
 .menu-5 { 
@@ -78,14 +84,15 @@ section {
     letter-spacing: 0.02em;
     color: #1B0A42;
     margin-top: 48px;
-    margin-left: 1322px;
+    margin-left: 749px;
+    display: inline-block;
 } 
 
 .btn-2 {
     width: 152px;
     height: 64px;
     margin-top: 50px;
-    margin-left: 1412px;
+    margin-left: 43px;
     background-color: #824FF1;
     font-family: 'Roboto', sans-serif;
     font-style: normal;
@@ -95,6 +102,7 @@ section {
     letter-spacing: 0.02em;
     border: none;
     color: #FFFFFF;
+    display: inline-block;
 }
 
 
@@ -114,9 +122,7 @@ section {
     } */
 
 
-section {
-    display: inline-block;
-}
+
 
 .main-title {
     max-width: 500px;
