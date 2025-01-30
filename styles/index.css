@@ -15,12 +15,111 @@
     color: #824FF1;
 }
 
+
+section {
+    display: inline-block;
+} 
+
+
+.menu-1 { 
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #1B0A42;
+    margin-top: 48px;
+    margin-left: 272px;
+} 
+
+.menu-2 { 
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #1B0A42;
+    margin-top: 48px;
+    margin-left: 356px;
+} 
+
+.menu-3 { 
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #1B0A42;
+    margin-top: 48px;
+    margin-left: 440px;
+} 
+
+.menu-4 { 
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #1B0A42;
+    margin-top: 48px;
+    margin-left: 511px;
+} 
+
+.menu-5 { 
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #1B0A42;
+    margin-top: 48px;
+    margin-left: 1322px;
+} 
+
+.btn-2 {
+    width: 152px;
+    height: 64px;
+    margin-top: 50px;
+    margin-left: 1412px;
+    background-color: #824FF1;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 32px;
+    letter-spacing: 0.02em;
+    border: none;
+    color: #FFFFFF;
+}
+
+
+
+    /*
+    .nav li {
+        display: inline-block;
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        color: #1B0A42;
+        margin-top: 48px;
+        margin-left: 273px;
+    } */
+
+
 section {
     display: inline-block;
 }
 
 .main-title {
-    max-width: 495px;
+    max-width: 500px;
     width: 100%;
     margin-top: 203px;
     margin-left: 200px;
